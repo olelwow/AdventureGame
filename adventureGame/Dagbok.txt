@@ -1,0 +1,55 @@
+
+Använder mig av if och else if för de olika valen, och printar ut saker
+i console.log.
+
+
+gör en fight med hjälp av en for loop som räknar neråt, kanske även ha med
+critical hits?
+
+
+
+
+'Du står framför en mörk skog, vill du (1. GÅ IN i skogen eller (2. GÅ RUNT?'
+
+
+branch (1: 
+'Du går in i skogen, och ser de mörka träden torna upp sig framför dig...
+Lite längre fram ser du en mörk silhuett. Du ser inte vem eller vad silhuetten tillhör'
+
+
+Vill du: 1. Gå fram och undersöka 
+	   2. Gömma dig bland träden?'
+
+1: 'Du smyger närmare, och ser att det är ett troll som står framför dig!'
+
+Vill du: 1. Slåss mot trollet
+	   2. Försöka smita undan
+
+1: Slåss mot trollet med ditt svärd. Trollet har 10 hp och du har 12. for loop med random nummer för fighten.
+
+2: 'Du gömmer dig bland träden som den fegis du är, och trollet passerar utan att märka dig.'
+
+
+
+branch (2:
+'Du går runt skogen, vilket tar flera timmar.
+När du äntligen kommer runt så ser du en flod.' 
+
+Vill du: 1. simma över 
+         2. hitta en annan väg
+
+1: 'Du simmar över floden, den har starka strömmar men du klarar dig över med nöd och näppe.'
+
+2: 'Du börjar gå längs med floden, och hittar ett nedfallet träd lite längre bort.
+Med hjälp av trädet tar du dig över floden.'
+
+
+
+
+
+dela upp kapitlena i funtioner. Funktioner i toppen och skiten i botten.
+deconstructor
+
+
+
+
